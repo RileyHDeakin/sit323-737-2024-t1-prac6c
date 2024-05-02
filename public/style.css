@@ -1,0 +1,14 @@
+/* 
+    This class defines the styling for elements with the class 'label'. 
+    It sets the font size to 30 pixels.
+*/
+.label {
+    font-size: 30px;
+}
+/* 
+    This class defines the styling for elements with the class 'labelTwo'. 
+    It sets the font size to 20 pixels. Smaller for operations with words for labels.
+*/
+.labelTwo {
+    font-size: 20px;
+}
